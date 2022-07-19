@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "time": "Dia 19.Hora 2:4",
+      "texto": "Luffy, também conhecido como Luffy Chapéu de Palha ou Chapéu de Palha,é um pirata e o protagonista do anime e mangá One Piece. Ele é o fundador e o capitão do cada vez mais infame e poderoso Piratas do Chapéu de Palha, bem como um de seus principais lutadores.",
+      "title": "Luffy",
+      "id": 1
+    },
+    {
+      "time": "Dia 19.Hora 2:6",
+      "title": "Zoro",
+      "texto": "Zoro e Kuina fazendo a sua promessa de se tornar o maior espadachim do mundo. Como uma criança, Zoro treinou num dojo na vila Shimotsuki. Mesmo como uma criança, Zoro foi forte o suficiente para derrotar a maioria dos adultos, mas não conseguiu derrotar Kuina, a filha do mestre do Dojo.",
+      "id": 2
+    },
+    {
+      "time": "Dia 19.Hora 2:34",
+      "title": "Nami",
+      "texto": "Nami, uma jovem e obstinada vastaya dos mares, usa seu cajado místico de Conjuradora das Marés para reordenar as marés e defender os Marai de todos os perigos. Como a primeira do seu povo a deixar o oceano para se aventurar em terra firme, Nami encara o inimaginável com bravura, determinação e ousadia.",
+      "id": 3
+    },
+    {
+      "time": "Dia 19.Hora 2:55",
+      "title": "Coringa",
+      "texto": "Origem. A história mais conhecida sobre a sua origem, é que a pessoa que futuramente se tornaria o ladrão e assassino Joker, participou de uma tentativa de assalto a uma fábrica de produtos químicos em Gotham City, disfarçado como o então criminoso Capuz Vermelho.",
+      "id": 4
+    }
+  ]
+}
